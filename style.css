@@ -298,6 +298,7 @@ li{
   }
 
   .mobile-topbar {
+    padding: 20px 0
     display: block; 
   }
 
@@ -329,3 +330,4 @@ li{
     height: 150px;
   }
 }
+
